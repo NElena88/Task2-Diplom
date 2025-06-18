@@ -38,7 +38,8 @@
 | test_create_order.py    | Тесты на создание заказа          |
 | create_order_methods.py | http клиент к order методам       |
 | create_user_methods.py  | http клиент к user методам        |
-| data.py                 | Файл с URL и body запросов        |
+| curl.py                 | Файл с URL                        |
+| data.py                 | Файл с body запросов              |
 | generators.py           | Генератор данных                  |
 | helpers.py              | Хэлпер для тела запросов          |
 | requirements.txt        | Файл с зависимостями              |

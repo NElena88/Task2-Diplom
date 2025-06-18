@@ -1,6 +1,6 @@
 import requests
 
-from data import Url
+from curl import Url
 
 
 class CreateOrderMethods:

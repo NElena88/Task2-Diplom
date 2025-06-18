@@ -1,6 +1,7 @@
 import requests
 
-from data import Url, DataForCreateUser
+from curl import Url
+from data import DataForCreateUser
 from generators import *
 
 
